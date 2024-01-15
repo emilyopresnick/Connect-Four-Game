@@ -1,0 +1,1 @@
+This project is a Connect Four AI Game. Running connectFour.py will begin a game of connect four against a computer. You may play against anothe player by commenting out the AIPlayer line and uncommenting out the Player vs Player line. Additionally you may tweak the AI parameters by modifying the lookahead number or the tiebreaker method. 
